@@ -1,0 +1,15 @@
+C:\Users\katux\OneDrive\Desktop\GB обучение\контрольная\bin\Debug\net7.0\контрольная.exe
+C:\Users\katux\OneDrive\Desktop\GB обучение\контрольная\bin\Debug\net7.0\контрольная.deps.json
+C:\Users\katux\OneDrive\Desktop\GB обучение\контрольная\bin\Debug\net7.0\контрольная.runtimeconfig.json
+C:\Users\katux\OneDrive\Desktop\GB обучение\контрольная\bin\Debug\net7.0\контрольная.dll
+C:\Users\katux\OneDrive\Desktop\GB обучение\контрольная\bin\Debug\net7.0\контрольная.pdb
+C:\Users\katux\OneDrive\Desktop\GB обучение\контрольная\obj\Debug\net7.0\контрольная.csproj.AssemblyReference.cache
+C:\Users\katux\OneDrive\Desktop\GB обучение\контрольная\obj\Debug\net7.0\контрольная.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katux\OneDrive\Desktop\GB обучение\контрольная\obj\Debug\net7.0\контрольная.AssemblyInfoInputs.cache
+C:\Users\katux\OneDrive\Desktop\GB обучение\контрольная\obj\Debug\net7.0\контрольная.AssemblyInfo.cs
+C:\Users\katux\OneDrive\Desktop\GB обучение\контрольная\obj\Debug\net7.0\контрольная.csproj.CoreCompileInputs.cache
+C:\Users\katux\OneDrive\Desktop\GB обучение\контрольная\obj\Debug\net7.0\контрольная.dll
+C:\Users\katux\OneDrive\Desktop\GB обучение\контрольная\obj\Debug\net7.0\refint\контрольная.dll
+C:\Users\katux\OneDrive\Desktop\GB обучение\контрольная\obj\Debug\net7.0\контрольная.pdb
+C:\Users\katux\OneDrive\Desktop\GB обучение\контрольная\obj\Debug\net7.0\контрольная.genruntimeconfig.cache
+C:\Users\katux\OneDrive\Desktop\GB обучение\контрольная\obj\Debug\net7.0\ref\контрольная.dll
